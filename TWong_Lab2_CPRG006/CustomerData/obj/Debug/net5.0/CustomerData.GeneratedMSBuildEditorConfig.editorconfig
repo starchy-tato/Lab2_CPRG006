@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CustomerData
+build_property.ProjectDir = C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\

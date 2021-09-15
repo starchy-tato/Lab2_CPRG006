@@ -1,0 +1,12 @@
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\bin\Debug\net5.0\CustomerData.deps.json
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\bin\Debug\net5.0\CustomerData.dll
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\bin\Debug\net5.0\ref\CustomerData.dll
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\bin\Debug\net5.0\CustomerData.pdb
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.csproj.AssemblyReference.cache
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.AssemblyInfoInputs.cache
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.AssemblyInfo.cs
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.dll
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\ref\CustomerData.dll
+C:\Users\Default.DESKTOP-VC3JPM5\Desktop\Tech Careers\SAIT Tech Training\CPRG-006 (RAD Concepts)\TWong_Lab2_CPRG006\CustomerData\obj\Debug\net5.0\CustomerData.pdb
